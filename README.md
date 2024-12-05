@@ -1,4 +1,4 @@
-# Quantization in Depth
+# Quantization in Depth  
 
 ![image](https://github.com/user-attachments/assets/5fb9bf72-58f4-455f-9630-15814725942e)
 
