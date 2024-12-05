@@ -2,7 +2,7 @@
  
 ![image](https://github.com/user-attachments/assets/5fb9bf72-58f4-455f-9630-15814725942e)  
   
- 
+  
 ## Introduction
   
 Quantization is a technique used in machine learning to reduce the memory and computational requirements of models by approximating high-precision weights and activations with lower-precision representations. This approach is especially critical for deploying models on edge devices with limited resources, as it improves efficiency while maintaining acceptable accuracy.
