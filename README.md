@@ -4,7 +4,7 @@
  
  
 ## Introduction
-
+ 
 Quantization is a technique used in machine learning to reduce the memory and computational requirements of models by approximating high-precision weights and activations with lower-precision representations. This approach is especially critical for deploying models on edge devices with limited resources, as it improves efficiency while maintaining acceptable accuracy.
 
 This Repo Contains, Explorations quantization in depth, covering various techniques, workflows, and implementations. Our work demonstrates how quantization can be applied effectively to PyTorch models, including using pre-trained weights from the Hugging Face Hub.
